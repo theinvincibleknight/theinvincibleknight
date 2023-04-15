@@ -13,6 +13,12 @@
 ⦿ Follow me on [Hashnode](https://hashnode.com/@akshayhegde/) 🌐 <br>
 ⦿ Shoot Me an [Email](mailto:akshayhegde8055@gmail.com) 💌 <br>
 
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+  
+  </div>
+
 ## 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theinvincibleknight&show_icons=true&locale=en" alt="theinvincibleknight" /></p>
