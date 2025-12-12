@@ -18,8 +18,9 @@
 ⦿ Shoot Me an [Email](mailto:akshayhegde8055@gmail.com) 💌 <br>
 
 <div align="center">
-  
+<!--
 ### Show some ❤️ by starring some of the repositories!
+-->
   
   </div>
 
